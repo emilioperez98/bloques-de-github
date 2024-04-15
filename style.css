@@ -1,0 +1,50 @@
+.octocat {
+    height: 200px;
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+}
+
+h3{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(194, 191, 191);
+    padding: 10px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.bloque1 {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 20px;
+    width: 800px;
+}
+
+.bloque2 {
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    padding: 15px;
+    margin: 20px;
+    width: 800px;
+}
+
+.bloque3 {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 20px;
+    width: 800px;
+}
